@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Name.
 0x00-ES6_basic
 
@@ -47,3 +48,6 @@ Don’t forget to run npm install from the terminal of your project folder to in
 
 
 To collaborate, reach me through my email address detech0404@gmail.com.
+=======
+
+>>>>>>> e93b9c4a30e98db4900b4dfc7fa78705592bacc8
