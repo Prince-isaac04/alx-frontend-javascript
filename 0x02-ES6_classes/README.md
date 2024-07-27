@@ -1,3 +1,5 @@
+<<<<<<< HEAD Project Name. 0x00-ES6_basic
+
 Author's Details. Name: Ajayi Isaac.
 
 Email: detech0404@gmail.com
@@ -13,3 +15,4 @@ Configuration files Add the files below to your project directory
 package.json Click to show/hide file contents babel.config.js Click to show/hide file contents .eslintrc.js Click to show/hide file contents Finally… Don’t forget to run npm install from the terminal of your project folder to install all necessary project dependencies.
 
 To collaborate, reach me through my email address detech0404@gmail.com.
+e93b9c4a30e98db4900b4dfc7fa78705592bacc8
