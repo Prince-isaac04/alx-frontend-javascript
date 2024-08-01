@@ -1,3 +1,5 @@
 export default function setFromArray(array) {
-  return new Set(array);
+  if (Array.isArray(array)) {
+    return new Set(array)
+  }
 }
